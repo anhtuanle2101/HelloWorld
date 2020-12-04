@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:100vh;
+    background-color:black;
+}
+h1{
+    font-size:10rem;
+    font-family:monospace;
+    letter-spacing:0.5rem;
+}
+
+.letter{
+    transition:color 500ms;
+}
